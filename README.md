@@ -1,4 +1,5 @@
 "# Password-Manager" 
+-------------------
 
 This is a simple Password Manager application built with C#. It uses a dictionary structure to manage passwords and stores them in a text file. To protect your passwords, the application employs a basic encryption technique, making the passwords readable only through the software and not directly from the text file.
 
